@@ -1,0 +1,15 @@
+* { margin: 0;}
+.topbar {
+    background-color: #434a54;
+    display: flex;
+    padding: 5px;
+}
+.gmailicon {
+    height: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+.layer {
+display: flex;
+color: aliceblue;
+}
