@@ -13,3 +13,28 @@
 display: flex;
 color: aliceblue;
 }
+
+.heading {
+    font-size: 50px;
+}
+
+.headStyle {
+    color: #3cb89c;
+
+}
+.navstyle {
+    display:flex ;
+    justify-content: space-around;
+    width: 100%;
+
+}
+.article {
+    font-size: 30px;
+    color: #3cb89c;
+    display: flex;
+    justify-content: center;
+}
+.firstarticle{
+padding: 20px;
+}
+
