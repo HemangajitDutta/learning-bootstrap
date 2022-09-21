@@ -38,3 +38,12 @@ color: aliceblue;
 padding: 20px;
 }
 
+.footer {
+    background-color: #434a54;
+    height: 62px;
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+}
