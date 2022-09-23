@@ -47,6 +47,30 @@ padding: 20px;
     align-items: center;
     color: aliceblue;
 }
-.cardboxes{
+.duration{
+    margin-top: -15px;
+}
+.card-body{
+    background-color: #3cb89c;
     
+}
+.card-title{
+    color: aliceblue;
+    font-size: 15px;
+}
+.duration{
+    color: aliceblue;
+    font-size: 14px;
+    font-style: italic;
+}
+.card-text{
+    font-size: 14px;
+    font-style: italic;
+}
+.cardheading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    padding: 20px;
 }
