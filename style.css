@@ -74,3 +74,31 @@ padding: 20px;
     font-size: 30px;
     padding: 20px;
 }
+.article2{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    padding: 20px;
+}
+.secondarticle{
+    padding: 20px;
+}
+.boxborder{
+    height: 20px;
+    background-color: #ececec;
+    
+}
+.viewall{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;  
+    margin: 10px 0;
+    height: 40px;
+}
+.button{
+    justify-content: right;
+    align-items: right;
+    display: flex;
+    padding: 20px;
+}
